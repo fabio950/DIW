@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13-oct-2016, 8:54:35
+    Author     : alumno
+*/
+
+.izquierda {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    float: left;
+}
+
+.derecha {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    float: right;
+}
